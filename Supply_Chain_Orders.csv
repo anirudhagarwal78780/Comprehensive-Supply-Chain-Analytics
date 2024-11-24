@@ -1,0 +1,6 @@
+Order ID,Date,Product ID,Category,Region,Quantity,Sales,Discount,Profit,Shipping Cost,Supplier ID,Delivery ID
+101,2024-01-01,P001,Electronics,North,10,1500,0.1,300,50,S001,D001
+102,2024-01-05,P002,Furniture,South,5,750,0.2,150,30,S002,D002
+103,2024-01-10,P003,Office Supplies,East,15,1125,0.15,225,45,S003,D003
+104,2024-01-12,P004,Electronics,West,7,2100,0.05,420,70,S001,D004
+105,2024-01-15,P005,Furniture,North,12,1800,0.1,360,60,S002,D005

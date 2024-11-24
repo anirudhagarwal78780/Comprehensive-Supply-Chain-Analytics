@@ -1,0 +1,6 @@
+Delivery ID,Status,Carrier,Actual Delivery Date,Estimated Delivery Date
+D001,Delivered,DHL,07-01-2024,08-01-2024
+D002,Delivered,FedEx,12-01-2024,15-01-2024
+D003,Pending,UPS,11-01-2024,12-01-2024
+D004,Delivered,DHL,16-01-2024,18-01-2024
+D005,Delayed,FedEx,20-01-2024,19-01-2024
